@@ -102,8 +102,9 @@
 <img width="743" alt="스크린샷 2023-11-23 오후 7 36 33" src="https://github.com/easyspubjava/KernelJava/assets/37524201/1bd7c661-41f0-4dbc-afa9-ad41dc3f74c0">
 
 ### 미션
-- 정책을 인터페이스에서 상속받아 처리합니다.
+- 정책을 인터페이스를 선언하고 각 정책 클래스를 구현합니다.
 - PriorityQueue를 사용합니다.
+- (Optional) 시간이남으면... 다른 정책도 추가해보세요
   
 
 
