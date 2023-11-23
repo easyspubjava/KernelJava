@@ -1,6 +1,6 @@
-## Kernel 360 Object Oriented Programming 사전과제
+# Kernel 360 Object Oriented Programming 사전과제
 
-1. SIS Project (학점 산출 문제)
+## 1. SIS Project (학점 산출 문제)
 
 ### 문제 정의 
 
