@@ -54,13 +54,7 @@
 
 결과는 다음과 같습니다. 
    
-![math](https://github.com/easyspubjava/KernelJava/assets/37524201/c9f2d724-5b72-4532-b581-5fbed5a78766)
 
-
-![kor](https://github.com/easyspubjava/KernelJava/assets/37524201/2ac62cc3-5d62-464f-b5cd-c4b984c4585c)
-
-
-![dance](https://github.com/easyspubjava/KernelJava/assets/37524201/24df3e62-8eab-43be-b025-67d0370b3532)
 
 
 ### 미션
@@ -75,6 +69,9 @@
 
 -  성적에 대한 학생별, 과목 별 학점 내용을 볼 수 있도록 한다.
 
+![스크린샷 2023-11-24 오전 8 27 26](https://github.com/easyspubjava/KernelJava/assets/37524201/c4e21007-9d88-457b-a280-e54ab10c06b3)
+![스크린샷 2023-11-24 오전 8 27 38](https://github.com/easyspubjava/KernelJava/assets/37524201/002824c9-dd2d-4184-8749-e80fb2bc0902)
+![스크린샷 2023-11-24 오전 8 27 49](https://github.com/easyspubjava/KernelJava/assets/37524201/d35c6d9d-203d-4706-9730-e0ab7945f649)
 
   
 # 2. 고객 서비스 센터 문제 (스케줄링 정책)
