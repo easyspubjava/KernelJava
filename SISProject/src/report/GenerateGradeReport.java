@@ -18,7 +18,7 @@ public class GenerateGradeReport {
 	public static final String TITLE = " 수강생 학점 \t\t\n";
 	public static final String HEADER = " 이름  |  학번  |중점과목| 점수   \n";
 	public static final String LINE = "-------------------------------------\n";
-	private StringBuffer buffer = new StringBuffer();  
+	private StringBuilder buffer = new StringBuilder();
 	
 	public String getReport(){
 		ArrayList<Subject> subjectList = school.getSubjectList();  // 모든 과목에 대한 학점 산출
