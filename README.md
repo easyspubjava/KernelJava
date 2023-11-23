@@ -44,6 +44,17 @@
 
 학점의 정책이 추가되는 경우와 과목이 추가되는 경우를 고려하여 객체를 설계하고 학점 정책에 대해서는 인터페이스를 선언하고 각 정책이 해당 인터페이스를 구현하도록 합니다. 
 
+- 학정 정책의 추가
+  
+방송댄스 과목이 새로 개설되고 이 과목의 학점 평가 정책은 pass/fail 로 정해졌다고 합니다. 70점 이상인 경우는 pass, 미만인 경우는 fail입니다.
 
+전체 5명 학생중 3명만이 이 과목을 수강신청 했습니다. 추가된 요구사항이 잘 반영되도록 구현하세요   
    
-   
+![math](https://github.com/easyspubjava/KernelJava/assets/37524201/c9f2d724-5b72-4532-b581-5fbed5a78766)
+
+
+![kor](https://github.com/easyspubjava/KernelJava/assets/37524201/2ac62cc3-5d62-464f-b5cd-c4b984c4585c)
+
+
+
+![dance](https://github.com/easyspubjava/KernelJava/assets/37524201/24df3e62-8eab-43be-b025-67d0370b3532)
