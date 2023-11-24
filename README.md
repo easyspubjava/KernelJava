@@ -26,6 +26,7 @@
 
 다음과 같습니다
 
+
 - 필수 과목 학점 기준
 
 | S | A | B | C | D | F |
@@ -107,8 +108,7 @@ System.in 으로 처리 방식을 입력받는 경우
 
 <img width="951" alt="스크린샷 2023-11-24 오전 8 58 59" src="https://github.com/easyspubjava/KernelJava/assets/37524201/142070df-0ea7-4a43-aed2-896beb7dd2cf">
 
-![스크린샷 2023-11-24 오전 9 00 35](https://github.com/easyspubjava/KernelJava/assets/37524201/e334b3bf-a808-4537-97fd-dd52fb9e60eb)
-
+![스크린샷 2023-11-24 오전 9 01 24](https://github.com/easyspubjava/KernelJava/assets/37524201/2ad947e1-84c1-4347-a566-20d4d5f9f509)
 
 ### 미션
 - 정책을 인터페이스를 선언하고 각 정책 클래스를 구현합니다.
