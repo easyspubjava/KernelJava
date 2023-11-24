@@ -102,13 +102,7 @@
 
 ### 결과 
 
-<img width="720" alt="스크린샷 2023-11-24 오전 8 37 16" src="https://github.com/easyspubjava/KernelJava/assets/37524201/e1615044-e47d-4828-a977-f77f5df6d0f1">
-
-System.in 으로 처리 방식을 입력받는 경우
-
-<img width="951" alt="스크린샷 2023-11-24 오전 8 58 59" src="https://github.com/easyspubjava/KernelJava/assets/37524201/142070df-0ea7-4a43-aed2-896beb7dd2cf">
-
-![스크린샷 2023-11-24 오전 9 01 24](https://github.com/easyspubjava/KernelJava/assets/37524201/2ad947e1-84c1-4347-a566-20d4d5f9f509)
+코드에 약간의 버그가 있어서 고병룡님의 결과로 참고하시면 될듯 합니다 쏘리...
 
 ### 미션
 - 정책을 인터페이스를 선언하고 각 정책 클래스를 구현합니다.
