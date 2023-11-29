@@ -1,4 +1,5 @@
 # Kernel 360 Object Oriented Programming 사전과제
+### 박은종 디렉터님 과제
 
 # 1. SIS Project (학점 산출 문제)
 
